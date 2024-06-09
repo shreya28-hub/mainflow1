@@ -1,0 +1,33 @@
+*{
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+nav{
+ text-decoration: none;
+
+}
+h1{
+color: red;
+}
+#m{
+    text-align: center;
+}
+#name{
+    background-color: rgb(12, 202, 244);
+}
+#email{
+    background-color: rgb(12, 202, 244);
+}
+#message{
+    background-color: rgb(12, 202, 244);
+}
+h2{
+    text-decoration-thickness: 50px;
+    text-shadow: 50px;
+    color:brown;
+}
+div{
+    background-color: bisque;
+    height:500px;
+}
